@@ -106,11 +106,13 @@ export default function Component() {
               {/* <Card>
                 <CardHeader>
                   <CardTitle>Project 1</CardTitle>
-                  <CardDescription>A brief description of Project 1</CardDescription>
+                  <CardDescription>• Built an interactive job portal for employers and job seekers.
+• Enabled resume upload, job applications, and drive postings.
+• Implemented resume upload and job detail submission system.</CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <p>Technologies used: React, Node.js, MongoDB</p>
-                  <Link href="#" className="mt-4 inline-block">
+                  <p>Technologies used: React,CSS, Node.js, MongoDB</p>
+                  <Link href="https://job-portal-frontend-self-nine.vercel.app/" className="mt-4 inline-block">
                     <Button>View Project</Button>
                   </Link>
                 </CardContent>
@@ -118,11 +120,15 @@ export default function Component() {
               <Card>
                 <CardHeader>
                   <CardTitle>Project 2</CardTitle>
-                  <CardDescription>A brief description of Project 2</CardDescription>
+                  <CardDescription>• Developed a web application to generate comprehensive notes from YouTube video URLs using AI.
+• Enabled users to download the notes as PDFs for offline viewing.
+• Integrated a dashboard to create AI-based quizzes and flashcards for efficient revision.
+• Designed an AI chatbot to assist users with doubts while reading the notes.
+• Implemented features like video-to-notes syncing, seamless note saving, and AI-powered performance analysis.</CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <p>Technologies used: Vue.js, Express, PostgreSQL</p>
-                  <Link href="https://spotify-clone-eta-ebon.vercel.app/" className="mt-4 inline-block">
+                  <p>Technologies used: Nextjs,Firebase,Tailwind CSS,llama API</p>
+                  <Link href="https://lectura-omega.vercel.app/" className="mt-4 inline-block">
                     <Button>View Project</Button>
                   </Link>
                 </CardContent>
@@ -130,11 +136,13 @@ export default function Component() {
               <Card>
                 <CardHeader>
                   <CardTitle>Project 3</CardTitle>
-                  <CardDescription>A brief description of Project 3</CardDescription>
+                  <CardDescription>• Built an AI-powered app to analyze resumes and generate insights.
+• Built ATS score checker with resume insights and cover letter generator.
+• Highlights missing skills and provides AI feedback.</CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <p>Technologies used: Django, React, MySQL</p>
-                  <Link href="https://netflix-clone-three-tan.vercel.app/" className="mt-4 inline-block">
+                  <p>Technologies used: Next.js,Gemini API,Tailwind CSS,Mongo DB</p>
+                  <Link href="https://ai-resume-analyzer-nu.vercel.app/" className="mt-4 inline-block">
                     <Button>View Project</Button>
                   </Link>
                 </CardContent>
